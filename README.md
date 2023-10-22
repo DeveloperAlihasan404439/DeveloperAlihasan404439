@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developeralihasan404439&label=Profile%20views&color=0e75b6&style=flat" alt="developeralihasan404439" /> </p>
+<p align="left"> <img src="https://i.ibb.co/Jdg1GjC/ali-hasan.png" /> </p>
 
 - 🔭 I’m currently working on [WebTech](https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-DeveloperAlihasan404439)
 
