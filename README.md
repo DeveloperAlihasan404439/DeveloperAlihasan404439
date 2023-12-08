@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ali Hasan</h1>
+![alihasan](ali-hasan.png)
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developeralihasan404439&label=Profile%20views&color=0e75b6&style=flat" alt="developeralihasan404439" /> </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeveloperAlihasan404439&theme=burnt-neon)](https://git.io/streak-stats)
+
 
 - 🔭 I’m currently working on [WebTech](https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-DeveloperAlihasan404439)
 
@@ -24,6 +28,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developeralihasan404439&show_icons=true&locale=en&layout=compact" alt="developeralihasan404439" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developeralihasan404439&show_icons=true&locale=en" alt="developeralihasan404439" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developeralihasan404439&" alt="developeralihasan404439" /></p>
+
+
