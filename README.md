@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ali Hasan</h1>
+
 ![alihasan](ali-hasan.png)
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developeralihasan404439&label=Profile%20views&color=0e75b6&style=flat" alt="developeralihasan404439" /> </p>
+<h3 align="center">I work as an MREN Stack Developer, proficient in MongoDB, React, Express, and Node.js, building web applications with modern technology.</h3>
+
+
+<p align="left"> <img src="https://i.ibb.co/Jdg1GjC/ali-hasan.png" /> </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeveloperAlihasan404439&theme=burnt-neon)](https://git.io/streak-stats)
 
