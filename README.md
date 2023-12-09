@@ -3,11 +3,14 @@
 ![alihasan](https://raw.githubusercontent.com/DeveloperAlihasan404439/DeveloperAlihasan404439/main/images/banner.png)
 
 
-### ✔ Current Stats
+#📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeveloperAlihasan404439&theme=burnt-neon&hide_border=true)](https://git.io/streak-stats)
+<div>
 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeveloperAlihasan404439&theme=burnt-neon&hide_border=true)](https://git.io/streak-stats)
 
+![](https://github-readme-stats.vercel.app/api?username=DeveloperAlihasan404439&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+</div>
 
 <h3 align="left">💻 Tachnologies thak i know</h3>
 
