@@ -6,10 +6,9 @@
 #📊 GitHub Stats
 <div style="display: inline-block; width: 100%;">
   <div style="text-align: center; float: left; width: 90%">
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=DeveloperAlihasan404439&theme=burnt-neon&hide_border=true" alt="GitHub Streak" style="max-width: 100%; margin-bottom: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=DeveloperAlihasan404439&theme=burnt-neon&hide_border=true" alt="GitHub Streak" style="max-width: 100%;  margin-right: 10px; margin-bottom: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=DeveloperAlihasan404439&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 100%;">
-    </a>
+
   </div>
 </div>
 
