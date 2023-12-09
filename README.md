@@ -2,9 +2,7 @@
 
 ![alihasan](https://raw.githubusercontent.com/DeveloperAlihasan404439/DeveloperAlihasan404439/main/images/banner.png)
 
-<h3 align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Mern+Stack+Developer;Frontend+Developer;Full+Stakt+Developer; React+Developer&center=true&width=500&height=50"></a>
-</h3>
+<img src='https://readme-typing-svg.herokuapp.com?lines=Mern+Stack+Developer;Frontend+Developer;Full+Stakt+Developer; React+Developer&center=true&width=500&height=50' alt=''/>
 
 #📊 GitHub Stats <br/>
 ![](https://github-readme-streak-stats.herokuapp.com?user=DeveloperAlihasan404439&theme=burnt-neon&hide_border=true) 
