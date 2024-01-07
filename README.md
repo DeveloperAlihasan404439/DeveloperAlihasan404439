@@ -2,16 +2,9 @@
 
 ![alihasan](https://raw.githubusercontent.com/DeveloperAlihasan404439/DeveloperAlihasan404439/main/images/banner.png)
 
-<div style="display: inline-block; width: 100%;">
-  <div style="text-align: center; float: left; width: 50%">
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=DeveloperAlihasan404439&theme=burnt-neon&hide_border=true" alt="GitHub Streak" style="max-width: 100%; margin-bottom: 10px;">
-    </a>
-  </div>
-  <div style="text-align: center; float: left; width: 50%">
-    <img src="https://github-readme-stats.vercel.app/api?username=DeveloperAlihasan404439&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 100%;">
-  </div>
-</div>
+<h3 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=true&width=435&lines=Mern+Stack+Developer;Full+Stack+Developer;React+Developer;Frontend+Developer" alt="Typing SVG" /></a>
+</h3>
 
 <h3 align="left">💻 Tachnologies thak i know</h3>
 
@@ -31,4 +24,13 @@
 📫 Reach out to me via email(developeralihasan777@gmail.com),   [[LinkedIn](https://www.linkedin.com/in/ali-hasan-563001254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)] and [contact number(+88017832-28430)]  to explore collaborations or simply chat about tech and innovation.
 
 
+<<<<<<< HEAD
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+=======
+
+<br/>
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+>>>>>>> 5159a25c2fe17d950a7386c9324785d2070c28ac
