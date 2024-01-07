@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Hasan</h1>
 
-![alihasan](https://raw.githubusercontent.com/DeveloperAlihasan404439/DeveloperAlihasan404439/main/images/banner.png)
+![alihasan](https://raw.githubusercontent.com/DeveloperAlihasan404439/DeveloperAlihasan404439/main/images/Black.png)
 
 
 <h3 align="center">
