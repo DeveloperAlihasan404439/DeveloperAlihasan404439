@@ -2,9 +2,17 @@
 
 ![alihasan](https://raw.githubusercontent.com/DeveloperAlihasan404439/DeveloperAlihasan404439/main/images/banner.png)
 
+
 <h3 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=true&width=435&lines=Mern+Stack+Developer;Full+Stack+Developer;React+Developer;Frontend+Developer" alt="Typing SVG" /></a>
 </h3>
+<<<<<<< HEAD
+=======
+
+#📊 GitHub Stats <br/>
+![](https://github-readme-streak-stats.herokuapp.com?user=DeveloperAlihasan404439&theme=burnt-neon&hide_border=true) ![](https://github-readme-stats.vercel.app/api?username=DeveloperAlihasan404439&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+>>>>>>> f50a6ac0704ba0507059a236c7e2e6d053681655
 
 <h3 align="left">💻 Tachnologies thak i know</h3>
 
